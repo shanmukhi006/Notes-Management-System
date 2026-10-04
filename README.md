@@ -13,11 +13,5 @@ A RESTful backend application developed using **Java, Spring Boot, and SQL Serve
 
 **Java | Spring Boot | REST APIs | SQL Server | Postman | Maven**
 
-## Run the Project
 
-```bash
-mvn spring-boot:run
-```
-
-Configure your database credentials in `application.properties` before running the application.
 
